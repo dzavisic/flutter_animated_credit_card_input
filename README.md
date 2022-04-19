@@ -2,4 +2,4 @@
 
 ## Preview
 
-![Screenshot](assets/optimizedAnimationCard.gif)
+<img src="assets/optimizedAnimationCard.gif" alt="drawing" width="200"/>
